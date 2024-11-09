@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "bun -b --hot vite",
+    "build": "bun -b vite build",
+    "preview": "bun -b vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.7"
+  }
+}
